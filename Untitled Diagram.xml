@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-19T10:43:35.162Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="3k_BLYolVNMf-RWNjtE8" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-19T10:47:22.612Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="Vebd5VFSAng73joQxTtN" version="14.4.9" type="github">
   <diagram name="Page-1" id="64c3da0e-402f-94eb-ee01-a36477274f13">
     <mxGraphModel dx="1422" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -99,6 +99,9 @@
         </mxCell>
         <mxCell id="bin3gAvS8utTOachg4kr-279" value="消息体" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;fontStyle=1;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="620" y="780" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bin3gAvS8utTOachg4kr-280" value="模块名" style="whiteSpace=wrap;html=1;rounded=1;fontStyle=1;strokeColor=#006EAF;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="400" y="615" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
